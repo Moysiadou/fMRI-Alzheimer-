@@ -1,7 +1,7 @@
 ## **Functional Brain Mapping for Alzheimer's Analysis**
-Name: Aikaterini Moysiadou
-Date: December 1, 2024
-Neurosynth Data link: https://neurosynth.org/analyses/terms/alzheimer/
+**Name:** Aikaterini Moysiadou
+**Date:** December 1, 2024
+**Neurosynth Data link:** https://neurosynth.org/analyses/terms/alzheimer/
 
 This notebook visualizes fMRI data associated with Alzheimer's Disease, highlighing regions of the brain with significant activity. It includes: 
 1. An overlay visualization of functional data on an anatomical brain scan.
