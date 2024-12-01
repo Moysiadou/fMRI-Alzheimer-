@@ -5,7 +5,8 @@
 
 **Neurosynth Data link:** https://neurosynth.org/analyses/terms/alzheimer/
 
-This project uses Python to visualize fMRI data related to Alzheimer's disease. It overlays functional activity maps on a brain template and provides a histogram to represent the distribution of activation values. 
+## Project Description
+This project uses Python to visualize fMRI data related to Alzheimer's disease. It overlays functional activity maps onto a standrard brain template, providing insightful visualizations of brain regions affected by the disease. Additionally, a histogram is created to illustrate the distribution of activation values, offering a clear view of the data's underlying patterns.
 
 ## Table of Contents
 1. Data Overview
